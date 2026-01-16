@@ -1,0 +1,27 @@
+.title{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.left_col{
+float: left;
+width: 40%;
+}
+
+.right_col{
+float: right;
+width: 60%;
+text-align: center;
+}
+
+.fortnite{
+    background-color: aliceblue;
+}
+
+a.menu:link {color: black;}
+a.menu:visited {color: black;}
+a.menu:hover {color: blue;}
